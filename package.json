@@ -1,6 +1,6 @@
 {
   "name": "@efdigital/ll-jsonapi-server",
-  "version": "4.2.3",
+  "version": "5.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/efdigital/openbadges-bakery.git"
